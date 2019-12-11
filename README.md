@@ -84,7 +84,7 @@ Os deseo un feliz año 2020 !!!
 #### AlumnoFila4PC3
 
 
-#### AlumnoFila4PC4
+#### AlumnoFila4PC4 (Juan José Urbano Parra): Añadido método alumnoFila4PC4(), que muestra mi nombre y un mensaje. 
 
 
 #### AlumnoFila4PC5
